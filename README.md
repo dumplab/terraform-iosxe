@@ -1,5 +1,5 @@
 # terraform-iosxe
-terraform example using ios xe
+terraform example using ios xe multiple switches
 ### Prerequisites
 
 * terraform
